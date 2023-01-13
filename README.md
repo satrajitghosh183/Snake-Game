@@ -1,2 +1,2 @@
 # Snake-Game
-Classic snake game using oygame module
+Classic snake game using pygame module
